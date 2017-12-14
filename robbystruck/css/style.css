@@ -14,8 +14,9 @@
     font-weight: normal;
     font-style: normal;}
 
+
     @font-face {
-        font-family: 'Have-nothing-to-do-with';
+        font-family: 'Have nothing to do with';
         src:url('Have-nothing-to-do-with.ttf.woff') format('woff'),
             url('Have-nothing-to-do-with.ttf.svg#Have-nothing-to-do-with') format('svg'),
             url('Have-nothing-to-do-with.ttf.eot'),
@@ -23,6 +24,7 @@
         font-weight: normal;
         font-style: normal;
     }
+
 
 h3 {
     text-align: center;
@@ -245,7 +247,7 @@ li{
     }
 
 h1{
-    font-family:'Have-nothing-to-do-with';
+    font-family:'Have nothing to do with';
 }
 
 .achtergrond2{
@@ -269,7 +271,7 @@ h1{
 
 
 h3{
-    font-family:'Have-nothing-to-do-with';
+    font-family:'Have nothing to do with';
     font-size: 30px;
     text-align: center;
 }
@@ -307,14 +309,14 @@ h3{
     }
 
 .titels_wit{
-    font-family:'Have-nothing-to-do-with';
+    font-family:'Have nothing to do with';
     font-size: 45px;
     color: rgb(251, 248, 234);
     padding-top: 50px;
 }
 
 .titels_wit_klein{
-    font-family:'Have-nothing-to-do-with';
+    font-family:'Have nothing to do with';
     font-size: 22px;
     color: rgb(251, 248, 234);
     padding-top: 20px;
@@ -342,7 +344,7 @@ h3{
 }
 
 .titels_wit_klein2{
-    font-family:'Have-nothing-to-do-with';
+    font-family:'Have nothing to do with';
     font-size: 22px;
     color: rgb(251, 248, 234);
     text-align: center;
@@ -389,7 +391,7 @@ h3{
 }
 
 .titels_wit2{
-    font-family:'Have-nothing-to-do-with';
+    font-family:'Have nothing to do with';
     font-size: 45px;
     color: rgb(251, 248, 234);
 
@@ -402,14 +404,14 @@ h3{
 }
 
 .font2{
-    font-family:'Have-nothing-to-do-with';
+    font-family:'Have nothing to do with';
     font-size: 22px;
     color: rgb(238, 93, 97);
     margin-top: -46px;
 }
 
 .font3{
-    font-family:'Have-nothing-to-do-with';
+    font-family:'Have nothing to do with';
     font-size: 22px;
     color: rgb(238, 93, 97);
     margin-top: -55px;
@@ -433,7 +435,7 @@ h3{
 }
 
 .titels_wit_klein3{
-    font-family:'Have-nothing-to-do-with';
+    font-family:'Have nothing to do with';
     font-size: 22px;
     color: rgb(251, 248, 234);
     padding-top: 20px;
@@ -441,7 +443,7 @@ h3{
 }
 
 .titels_wit10{
-    font-family:'Have-nothing-to-do-with';
+    font-family:'Have nothing to do with';
     font-size: 45px;
     color: rgb(251, 248, 234);
     padding-top: 96px;
