@@ -1,0 +1,191 @@
+h3 {
+    text-align: center;
+}
+
+#banner{
+    text-align: justify;
+    height: 300px;
+    background-color: lightgrey;
+     text-align: center;
+
+}
+
+.logo{
+   
+    margin-top: 145px;
+    position: relative;
+    float: left;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.navbar{
+    background-color: darkgrey;
+}
+
+.illustratie1{
+    height: 270px;
+    background-color: darkgrey;
+}
+
+.illustratie2{
+    height: 270px;
+    background-color: rgb(163, 163, 163);
+}
+
+.illustratie3{
+    background:grey; 
+    width:100%;
+    min-height: 300px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+.illustratie4{
+    background:lightgrey; 
+    width:100%;
+    min-height: 300px;
+    margin-right: 40px;
+    margin-top: 40px;}
+
+.pad{
+    padding-top: 14px;
+    padding-right: 35px;
+    padding-left: 22px;
+    padding-top:40px;
+}
+
+.pad2{
+    padding-left: 22px;
+}
+
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar {
+    min-height: 60px;
+}
+
+.navbar-brand {
+    padding: 0 15px;
+    height: 60px;
+    line-height: 60px;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 60px;
+    height: 60px;
+    padding-top: 0;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar-collapse {
+    max-height:60px;
+}
+
+.navbar-toggle {
+    margin-right:28px;;
+}
+
+.button{
+   
+    text-align: center;
+    align-content: center;
+}
+
+.intro{
+    text-align: center;
+    margin-top: 80px;
+
+}
+
+.data{
+    text-align: right;
+    padding-right: 15px;
+    padding-inline-start:15px;
+    padding-bottom: 5px;
+    margin-left:15px;
+}
+
+.locatie{
+    text-align: center;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin-left:17px;
+}
+
+.uur{
+    text-align: left;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    margin-left:10px;
+}
+
+.data2{
+    text-align: center;
+    margin-top: 40px;
+    padding-bottom: 25px;
+}
+
+.illustratie5{
+    background:lightgrey; 
+    width:100%;
+    min-height: 200px;
+    margin-top: 50px;}
+
+    .intro2{
+        text-align: left;
+        margin-top: 80px;
+        Padding:10px;
+        padding-right:20px;
+        padding-left:20px;
+    
+    }
+
+.titels1{
+    text-align: center;
+}
+
+.intro3{
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+    padding-right:15px;
+    padding-left:15px;
+}
+
+.intro4{
+
+    text-align: center;
+    margin-top: 80px;
+    padding-right:20px;
+    padding-left:20px;
+    margin-bottom: 60px;
+
+}
+
+.intro5{
+    
+        text-align:left;
+        margin-top: 80px;
+        padding-right:20px;
+        padding-left:20px;
+        margin-bottom: 60px;
+    
+    }
+
+    .intro6{
+        
+            text-align:center;
+            margin-top: 80px;
+            padding-right:20px;
+            padding-left:20px;
+            margin-bottom: 60px;
+        
+        }
