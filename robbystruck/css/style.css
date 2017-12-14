@@ -1,12 +1,9 @@
-
-@import url('https://fonts.googleapis.com/css?family=Norican');
-
 @font-face {
-    font-family: 'Norican-Regular';
-    src:url('fonts/Norican-Regular.ttf.woff') format('woff'),
-        url('fonts/Norican-Regular.ttf.svg#Norican-Regular') format('svg'),
-        url('fonts/Norican-Regular.ttf.eot'),
-        url('fonts/Norican-Regular.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-family: 'Norican-Regular-Regular';
+    src:url('fonts/Norican-Regular-Regular.ttf.woff') format('woff'),
+        url('fonts/Norican-Regular-Regular.ttf.svg#Norican-Regular-Regular') format('svg'),
+        url('fonts/Norican-Regular-Regular.ttf.eot'),
+        url('fonts/Norican-Regular-Regular.ttf.eot?#iefix') format('embedded-opentype'); 
     font-weight: normal;
     font-style: normal;
 }
@@ -405,7 +402,7 @@ h3{
 }
 
 .font{
-    font-family:"Norican";
+    font-family:"Norican-Regular";
     color:rgb(110, 218, 243);
     font-size: 20px;
 }
