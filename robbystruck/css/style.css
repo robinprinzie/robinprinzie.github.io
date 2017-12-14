@@ -1,12 +1,13 @@
 @font-face {
     font-family: 'Norican-Regular';
-    src:url('fonts/Norican-Regular.ttf.woff') format('woff'),
-        url('fonts/Norican-Regular.ttf.svg#Norican-Regular') format('svg'),
-        url('fonts/Norican-Regular.ttf.eot'),
-        url('fonts/Norican-Regular.ttf.eot?#iefix') format('embedded-opentype'); 
+    src:url('Norican-Regular.ttf.woff') format('woff'),
+        url('Norican-Regular.ttf.svg#Norican-Regular') format('svg'),
+        url('Norican-Regular.ttf.eot'),
+        url('Norican-Regular.ttf.eot?#iefix') format('embedded-opentype'); 
     font-weight: normal;
     font-style: normal;
 }
+
 
 @font-face {
     font-family: 'Miso';
