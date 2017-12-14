@@ -16,14 +16,13 @@
 
     @font-face {
         font-family: 'Have-nothing-to-do-with';
-        src:url('./fonts/Have-nothing-to-do-with.ttf.woff') format('woff'),
-            url('./fonts/Have-nothing-to-do-with.ttf.svg#Have-nothing-to-do-with') format('svg'),
-            url('./fonts/Have-nothing-to-do-with.ttf.eot'),
-            url('./fonts/Have-nothing-to-do-with.ttf.eot?#iefix') format('embedded-opentype'); 
+        src:url('Have-nothing-to-do-with.ttf.woff') format('woff'),
+            url('Have-nothing-to-do-with.ttf.svg#Have-nothing-to-do-with') format('svg'),
+            url('Have-nothing-to-do-with.ttf.eot'),
+            url('Have-nothing-to-do-with.ttf.eot?#iefix') format('embedded-opentype'); 
         font-weight: normal;
         font-style: normal;
     }
-
 
 h3 {
     text-align: center;
