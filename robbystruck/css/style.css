@@ -14,6 +14,24 @@
     src: url(Norican.ttf);
 }
 
+@font-face {
+    font-family: 'Miso';
+    src:url('Miso.ttf.woff') format('woff'),
+        url('Miso.ttf.svg#Miso') format('svg'),
+        url('Miso.ttf.eot'),
+        url('Miso.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;}
+
+    @font-face {
+        font-family: 'Have-nothing-to-do-with';
+        src:url('Have-nothing-to-do-with.ttf.woff') format('woff'),
+            url('Have-nothing-to-do-with.ttf.svg#Have-nothing-to-do-with') format('svg'),
+            url('Have-nothing-to-do-with.ttf.eot'),
+            url('Have-nothing-to-do-with.ttf.eot?#iefix') format('embedded-opentype'); 
+        font-weight: normal;
+        font-style: normal;
+    }
 
 
 h3 {
