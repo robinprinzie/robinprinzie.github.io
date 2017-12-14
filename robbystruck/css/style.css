@@ -1,0 +1,502 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Have nothing to do with.ttf);
+}
+
+
+@font-face {
+    font-family: CustomFont2;
+    src: url(miso.ttf);
+}
+
+@font-face {
+    font-family: CustomFont: 3;;
+    src: url(Norican.ttf);
+}
+
+
+
+h3 {
+    text-align: center;
+}
+
+#banner{
+
+    max-height: 290px;
+    background-image: url("../images/banner.png");
+    
+}
+
+.logo{
+   
+    height: 200px;
+    margin-top: 150px;
+    position: relative;
+    float: left;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: auto;
+}
+
+
+
+.navbar{
+    background-color: darkgrey;
+}
+
+.illustratie1{
+    min-height: 250px;
+float:right;
+padding-right: 10px;
+margin-top: -36px;
+}
+
+.illustratie2{
+    height: 270px;
+    background-color: rgb(163, 163, 163);
+}
+
+.illustratie3{
+    background:grey; 
+    width:100%;
+    min-height: 300px;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+
+.illustratie4{
+    background:lightgrey; 
+    width:100%;
+    min-height: 300px;
+    margin-right: 40px;
+    margin-top: 40px;}
+
+.pad{
+    padding-top: 14px;
+    padding-right: 35px;
+    padding-left: 22px;
+    padding-top:40px;
+}
+
+.pad2{
+    padding-left: 22px;
+}
+
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar {
+    min-height: 60px;
+}
+
+.navbar-brand {
+    padding: 0 15px;
+    height: 60px;
+    line-height: 60px;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 60px;
+    height: 60px;
+    padding-top: 0;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar-collapse {
+    max-height:60px;
+}
+
+.navbar-toggle {
+    margin-right:28px;;
+}
+
+.button{
+   
+    text-align: center;
+    align-content: center;
+}
+
+.intro{
+    text-align: center;
+    margin-top: 80px;
+
+}
+
+.data{
+    text-align: right;
+    padding-right: 15px;
+    padding-inline-start:15px;
+    padding-bottom: 5px;
+    margin-left:15px;
+}
+
+.locatie{
+    text-align: center;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin-left:17px;
+}
+
+.uur{
+    text-align: left;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    margin-left:10px;
+}
+
+.data2{
+    text-align: center;
+    margin-top: 40px;
+    padding-bottom: 25px;
+}
+
+.illustratie5{
+    width:100%;
+    min-height: 200px;
+    margin-top: 100px;
+    text-align:center;
+    margin-bottom: -20px;
+}
+
+    .intro2{
+        text-align: left;
+        margin-top: 80px;
+        Padding:10px;
+        padding-right:20px;
+        padding-left:20px;
+    
+    }
+
+.titels1{
+    text-align: center;
+}
+
+.intro3{
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+    padding-right:15px;
+    padding-left:15px;
+}
+
+.intro4{
+
+    text-align: center;
+    margin-top: 80px;
+    padding-right:20px;
+    padding-left:20px;
+    margin-bottom: 60px;
+
+}
+
+.intro5{
+    
+        text-align:left;
+        margin-top: 80px;
+        padding-right:20px;
+        padding-left:20px;
+        margin-bottom: 60px;
+    
+    }
+
+    .intro6{
+        
+            text-align:center;
+            margin-top: 80px;
+            padding-right:20px;
+            padding-left:20px;
+            margin-bottom: 60px;
+        
+        }
+
+
+ul{
+    background-color: rgb(251, 248, 234);
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+li{
+    padding-right: 40px;
+    padding-left:40px;
+    text-align: center;
+}
+
+
+
+.backgroundcontact{
+
+    min-height: 667px;
+    background-image: url("../images/rood.png");
+    }
+
+h1{
+    font-family:"Have nothing to do with";
+}
+
+.achtergrond2{
+    background-color: rgb(251, 248, 234);
+    max-height: 420px;
+}
+
+.achtergrond3{
+    
+  background-color:rgb(238, 93, 97);
+        background-size: cover;
+
+      
+    }
+
+    .achtergrond4{
+        
+      background-color:rgb(110, 218, 243);
+
+     }
+
+
+h3{
+    font-family:"Have nothing to do with";
+    font-size: 30px;
+    text-align: center;
+}
+
+.titel2{
+
+    text-align: center;
+    position: relative;
+    float: left;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: auto;
+    color:rgb(238, 93, 97);
+    padding-bottom: 120px;
+}
+
+.titel3{
+    
+        text-align: center;
+        position: relative;
+        float: left;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: auto;
+        color:rgb(110, 218, 243);
+        padding-bottom: 120px;
+        margin-bottom: 20px;
+    }
+
+    .hamburger1{
+        float: right;
+        padding-top: 90px;
+        padding-left: 40px;
+        size:80%;
+    }
+
+.titels_wit{
+    font-family:"Have nothing to do with";
+    font-size: 45px;
+    color: rgb(251, 248, 234);
+    padding-top: 50px;
+}
+
+.titels_wit_klein{
+    font-family:"Have nothing to do with";
+    font-size: 22px;
+    color: rgb(251, 248, 234);
+    padding-top: 20px;
+    margin-bottom: -15px;
+}
+
+.ing{
+    margin-bottom: 160px;
+    font-family: "miso";
+    font-size: 15px;
+    color: rgb(251, 248, 234);
+    letter-spacing: 1.5px;
+}
+
+
+.tekst{
+    font-family: "miso";
+    font-size: 15px;
+    color: rgb(251, 248, 234);
+    letter-spacing: 1.5px;
+}
+
+.roodacht{
+    background-color: rgb(238, 93, 97);
+}
+
+.titels_wit_klein2{
+    font-family:"Have nothing to do with";
+    font-size: 22px;
+    color: rgb(251, 248, 234);
+    text-align: center;
+    margin-top: -30px;
+}
+
+.pad3{
+    padding-top: 14px;
+    padding-right: 35px;
+    padding-left: 22px;
+    padding-top:40px;
+    margin-top: 75px;
+}
+
+
+.illustratie6{
+    width:100%;
+    min-height: 200px;
+    text-align:center;
+    margin-bottom: 200px;
+}
+
+.intro7{
+    
+        text-align:left;
+        margin-top: 80px;
+        padding-right:20px;
+        padding-left:20px;
+        margin-bottom: 200px;
+    
+    }
+
+.knip{
+    margin-top: -30px;
+}
+
+.intro8{
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+    padding-right:15px;
+    padding-left:15px;
+    margin-bottom:84px;
+}
+
+.titels_wit2{
+    font-family:"Have nothing to do with";
+    font-size: 45px;
+    color: rgb(251, 248, 234);
+
+}
+
+.font{
+    font-family:"Norican";
+    color:rgb(110, 218, 243);
+    font-size: 20px;
+}
+
+.font2{
+    font-family:"Have nothing to do with";
+    font-size: 22px;
+    color: rgb(238, 93, 97);
+    margin-top: -46px;
+}
+
+.font3{
+    font-family:"Have nothing to do with";
+    font-size: 22px;
+    color: rgb(238, 93, 97);
+    margin-top: -55px;
+}
+
+.lengte{
+    width: 210px;
+    text-align: center;
+}
+
+.navbar {
+    background-color:  rgb(251, 248, 234);
+}
+
+.navbar {
+    background-color: rgb(251, 248, 234);
+}
+
+.navbar-toggler-icon {
+    background-image: url("../images/knop.png");
+}
+
+.titels_wit_klein3{
+    font-family:"Have nothing to do with";
+    font-size: 22px;
+    color: rgb(251, 248, 234);
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+
+.titels_wit10{
+    font-family:"Have nothing to do with";
+    font-size: 45px;
+    color: rgb(251, 248, 234);
+    padding-top: 96px;
+}
+
+.nav-link5 {
+    background: url('../images/tour2.png') no-repeat center center;
+    display: inline-block;
+    width: 190px;
+    height: 149px;
+    margin-bottom: 60px;
+    padding-top:-30px;
+}
+
+.nav-link6 {
+    background: url('../images/tour.png') no-repeat center center;
+    display: inline-block;
+    width: 190px;
+    height: 149px;
+    margin-bottom: 60px;
+    padding-top:-30px;
+}
+
+.nav-link7 {
+    background: url('../images/offer.png') no-repeat center center;
+    display: inline-block;
+    width: 190px;
+    height: 149px;
+    margin-bottom: 60px;
+    margin-top: 70px;
+    opacity: 1;
+    transition: 0s
+}
+
+
+#map_container{
+    position: relative;
+  }
+  #map{
+      height: 500px;
+      overflow: hidden;
+      padding-bottom: 22.25%;
+      padding-top: 30px;
+      position: relative;
+  }
+
+#B{
+    background-color: rgb(251, 248, 234);;
+
+  }
+
+.lijn{
+
+    margin-top: 278px;
+    
+}
+
+
+#banner2{
+    
+        max-height: 290px;
+        background-color: rgb(251, 248, 234);;
+        
+    }
+    
+
