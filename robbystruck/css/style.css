@@ -7,10 +7,10 @@
 
 @font-face {
     font-family: 'Miso';
-    src:url('./fonts/Miso.ttf.woff') format('woff'),
-        url('./fonts/Miso.ttf.svg#Miso') format('svg'),
-        url('./fonts/Miso.ttf.eot'),
-        url('./fonts/Miso.ttf.eot?#iefix') format('embedded-opentype'); 
+    src:url('fonts/Miso.ttf.woff') format('woff'),
+        url('fonts/Miso.ttf.svg#Miso') format('svg'),
+        url('fonts/Miso.ttf.eot'),
+        url('fonts/Miso.ttf.eot?#iefix') format('embedded-opentype'); 
     font-weight: normal;
     font-style: normal;}
 
@@ -245,7 +245,7 @@ li{
     }
 
 h1{
-    font-family:"Have nothing to do with";
+    font-family:'Have-nothing-to-do-with';
 }
 
 .achtergrond2{
@@ -269,7 +269,7 @@ h1{
 
 
 h3{
-    font-family:"Have nothing to do with";
+    font-family:'Have-nothing-to-do-with';
     font-size: 30px;
     text-align: center;
 }
