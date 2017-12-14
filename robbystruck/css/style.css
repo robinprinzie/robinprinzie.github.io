@@ -1,4 +1,4 @@
-@font-face {
+@import{
     font-family: 'Have-nothing-to-do-with';
     src:url('Have-nothing-to-do-with.ttf.woff') format('woff'),
         url('Have-nothing-to-do-with.ttf.svg#Have-nothing-to-do-with') format('svg'),
@@ -8,7 +8,7 @@
     font-style: normal;
 }
 
-@font-face {
+@import{
     font-family: 'Miso';
     src:url('Miso.ttf.woff') format('woff'),
         url('Miso.ttf.svg#Miso') format('svg'),
@@ -18,7 +18,7 @@
     font-style: normal;
 }
 
-@font-face {
+@import{
     font-family: 'Norican', cursive;
     src: url(Norican.ttf);
 }
