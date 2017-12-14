@@ -1,13 +1,4 @@
-@font-face {
-    font-family: 'Norican-Regular';
-    src:url('Norican-Regular.ttf.woff') format('woff'),
-        url('Norican-Regular.ttf.svg#Norican-Regular') format('svg'),
-        url('Norican-Regular.ttf.eot'),
-        url('Norican-Regular.ttf.eot?#iefix') format('embedded-opentype'); 
-    font-weight: normal;
-    font-style: normal;
-}
-
+@import url('https://fonts.googleapis.com/css?family=Norican');
 
 @font-face {
     font-family: 'Miso';
