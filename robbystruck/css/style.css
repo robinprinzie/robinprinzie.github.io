@@ -1,8 +1,5 @@
 
-@font-face {
-    font-family: CustomFont: 3;
-    src:url(Norican.ttf);
-}
+@import url('https://fonts.googleapis.com/css?family=Norican');
 
 
 @font-face {
