@@ -514,3 +514,8 @@ h3{
     }
     
 
+.index{
+    
+    background-image: url("../images/banner.png");
+    background-image: cover;
+}
