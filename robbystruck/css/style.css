@@ -683,6 +683,57 @@ h3{
 
 }
 
+.f1{
+    float:right;
+}
+
+
+.tekst12{
+    font-family: "miso";
+    font-size: 15px;
+    color: rgb(251, 248, 234);
+    letter-spacing: 1.5px;
+    display: inline-block;
+    padding-right: 15px;
+}
+
+.brief{
+    
+        margin-top: 148px;
+        padding-left: 30px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: "miso";
+    color: #ffffff;
+    font-size: 17px;
+    background:transparent;
+    padding: 9px 31px 9px 31px;
+    border: solid #ffffff 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ee5d62;
+    background-image: -webkit-linear-gradient(top, #ee5d62, #ee5d62);
+    background-image: -moz-linear-gradient(top, #ee5d62, #ee5d62);
+    background-image: -ms-linear-gradient(top, #ee5d62, #ee5d62);
+    background-image: -o-linear-gradient(top, #ee5d62, #ee5d62);
+    background-image: linear-gradient(to bottom, #ee5d62, #ee5d62);
+    text-decoration: none;
+  }
+
+  .duim{
+      margin-bottom: 175px;
+      margin-top:-25px;
+      margin-left:20px;
+  }
+
+
+
     @media screen and (max-width: 768px) {
         .hamburger1{
             float: right;
@@ -832,3 +883,24 @@ h3{
                                     position: absolute;
                                     z-index: 10;
                                 }}
+
+                                @media screen and (max-width: 768px) {
+                                .f1{
+
+                                    position: relative;
+                                    float: left;
+                                    left: 50%;
+                                    transform: translate(-50%, -50%);
+                                }
+                                
+
+                                @media screen and (max-width: 768px) {
+                                    .duim{
+    
+                                        position: relative;
+                                        float: left;
+                                        left: 50%;
+                                        transform: translate(-50%, -50%);
+                                        margin-top: 90px;
+                                    }
+                                    
