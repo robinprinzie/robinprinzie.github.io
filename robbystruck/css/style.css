@@ -392,6 +392,15 @@ h3 {
     letter-spacing: 1.5px;
 }
 
+.tekst4 {
+    font-family: "miso";
+    font-size: 15px;
+    color: rgb(251, 248, 234);
+    letter-spacing: 1.5px;
+    margin-bottom: 15px;
+}
+
+
 .roodacht {
     background-color: rgb(238, 93, 97);
 }
